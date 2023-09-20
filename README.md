@@ -1,1 +1,1 @@
-0x03-debugging
+0x06-pointers_arrays_strings
