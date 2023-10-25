@@ -13,8 +13,5 @@ int is_palindrome(char *s);
 #endif
 
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 919e0d1b163d98a7a206909faf5ec2f1371e2af1
